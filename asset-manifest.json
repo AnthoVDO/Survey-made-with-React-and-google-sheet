@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/AnthoVDO/Survey-made-with-React-and-google-sheet/static/css/main.9bae395f.chunk.css",
+    "main.js": "/AnthoVDO/Survey-made-with-React-and-google-sheet/static/js/main.d55deff9.chunk.js",
+    "main.js.map": "/AnthoVDO/Survey-made-with-React-and-google-sheet/static/js/main.d55deff9.chunk.js.map",
+    "runtime-main.js": "/AnthoVDO/Survey-made-with-React-and-google-sheet/static/js/runtime-main.b9af45bc.js",
+    "runtime-main.js.map": "/AnthoVDO/Survey-made-with-React-and-google-sheet/static/js/runtime-main.b9af45bc.js.map",
+    "static/css/2.a44dde22.chunk.css": "/AnthoVDO/Survey-made-with-React-and-google-sheet/static/css/2.a44dde22.chunk.css",
+    "static/js/2.69e70509.chunk.js": "/AnthoVDO/Survey-made-with-React-and-google-sheet/static/js/2.69e70509.chunk.js",
+    "static/js/2.69e70509.chunk.js.map": "/AnthoVDO/Survey-made-with-React-and-google-sheet/static/js/2.69e70509.chunk.js.map",
+    "static/js/3.879796e6.chunk.js": "/AnthoVDO/Survey-made-with-React-and-google-sheet/static/js/3.879796e6.chunk.js",
+    "static/js/3.879796e6.chunk.js.map": "/AnthoVDO/Survey-made-with-React-and-google-sheet/static/js/3.879796e6.chunk.js.map",
+    "index.html": "/AnthoVDO/Survey-made-with-React-and-google-sheet/index.html",
+    "static/css/2.a44dde22.chunk.css.map": "/AnthoVDO/Survey-made-with-React-and-google-sheet/static/css/2.a44dde22.chunk.css.map",
+    "static/css/main.9bae395f.chunk.css.map": "/AnthoVDO/Survey-made-with-React-and-google-sheet/static/css/main.9bae395f.chunk.css.map",
+    "static/js/2.69e70509.chunk.js.LICENSE.txt": "/AnthoVDO/Survey-made-with-React-and-google-sheet/static/js/2.69e70509.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/AnthoVDO/Survey-made-with-React-and-google-sheet/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9af45bc.js",
+    "static/css/2.a44dde22.chunk.css",
+    "static/js/2.69e70509.chunk.js",
+    "static/css/main.9bae395f.chunk.css",
+    "static/js/main.d55deff9.chunk.js"
+  ]
+}
